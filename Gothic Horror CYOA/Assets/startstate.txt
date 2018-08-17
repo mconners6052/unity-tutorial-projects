@@ -1,0 +1,11 @@
+
+	Oh, my! It appears you caravan has careened of the mountain trail and into the 
+forest below. Fortunately, your body is intact, save for some scratches on your face. 
+Unfortunately, it seems the caravan driver has abandoned you. More unfortunately, 
+judging by its position, the sun will set in three hours. 
+
+	Dangerous things lurk in the woods even on the brightest, sunniest morrows. 
+You shan't imagine what might happen to you after dark.
+
+1. Examine the wrackage of the caravan.
+2. Proceed to the forest path ahead of you. 
